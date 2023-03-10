@@ -52,8 +52,21 @@ Refer to te following links. Discuss the difference between the different ways b
 
 - Answer at least 5 questions from the following link. Make sure you write the question as well as the answer.
   https://opendsa-server.cs.vt.edu/OpenDSA/Exercises/Binary/TravSumm.html
+
+> Visiting each element in a tree is known as - Traversing
+> Answer TRUE or FALSE. When you print out the nodes of binary tree, the leaf nodes appear in the same relative order for the preorder, inorder, and postorder traversals. - TRUE
+> If you are given the order of the nodes as visited by a preorder traversal and the order of the nodes as visited by an inorder traversal, do you have enough information to reconstruct the original tree? Assume that the nodes all have unique values. - TRUE
+> Why does function preorder2() presented in the Traversal module make only half as many recursive calls as function preorder()? - Because half of the pointers are null
+> The n nodes in a binary tree can be visited in - O (n) time 
+
 - Answer at least 5 questions from the following link. Make sure you write the question as well as the answer.
   https://opendsa-server.cs.vt.edu/OpenDSA/Exercises/Binary/Treeprobs.html
+> How many leaf nodes does this tree have? - 4
+> How many internal nodes does this tree have?  - 5
+> How many nodes in the tree have at least one sibling? - 6
+> What is the depth of this tree? - Trees have height -- they do not have depth
+> Which statement is correct? - The tree is neither full nor complete
+
 
 ## Links
 
