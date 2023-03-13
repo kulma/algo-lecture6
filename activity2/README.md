@@ -15,19 +15,19 @@
 
 Discuss the Time and Space complexity of Binary Search Tree (BST) operations (Searching, Insertion, Deletion) in the Best case, average case and worst case.
 
-> Insertion 
-    Best case (the root in empty): O(1) 
-    Average: O(log N), where N is number of nodes. 
+> Insertion:  \
+    Best case (the root in empty): O(1) \
+    Average: O(log N), where N is number of nodes. \
     Worst case: (root to the last node): O(n) where n is the number of nodes.
 
-> Deletion 
-    Best case: O(log N) where logN is the average height of the tree
-    Average: O(log N)
+> Deletion:  \
+    Best case: O(log N) where logN is the average height of the tree \
+    Average: O(log N) \
     Worst case: O(n), where n is the height of the tree.
 
-> Search 
-    Best case (the value in the root node is the one we are searching): O(1) 
-    Average: O(logN) where height becomes logN where N is number of nodes in a tree. 
+> Search:  \
+    Best case (the value in the root node is the one we are searching): O(1) \
+    Average: O(logN) where height becomes logN where N is number of nodes in a tree. \
     Worst case (root to the deepest leaf node):  O(n) where n is number of nodes present in a tree.
 
 ## Task 3
